@@ -1,7 +1,7 @@
 def generateList(sentence):
 
     """
-    Générer deux liste utilisant des séparateur
+    Générer deux liste utilisant des séparateurs
 
         Param:
             sentence(string)
